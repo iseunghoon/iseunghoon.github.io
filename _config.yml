@@ -1,13 +1,13 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: "https://SEUNGHOON.github.io"
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: LEE SEUNGHOON
-title: Student
-email: tim_lee@naver.com
-phone: 010-5523-9737
-website: https://github.com/iseunghoon/SEUNGHOON.github.io
+name: "LEE SEUNGHOON"
+title: "Student"
+email: "tim_lee@naver.com"
+phone: "010-5523-9737"
+website: "https://github.com/iseunghoon/SEUNGHOON.github.io"
 
 # Dark Mode (true/false/never)
 darkmode: false
