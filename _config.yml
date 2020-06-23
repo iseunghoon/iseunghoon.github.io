@@ -3,10 +3,10 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
+name: LEE SEUNGHOON
+title: Student
+email: tim_lee@naver.com
+phone: 010-5523-9737
 website: https://github.com/iseunghoon/SEUNGHOON.github.io
 
 # Dark Mode (true/false/never)
