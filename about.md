@@ -11,14 +11,17 @@ permalink: /about/
 * Address: Naesonro 14, Uiwang, GyeongGi-Do
 ## Interests
 * Computer Vision
-  * Object detection
+  * Realtime Object detection
   * GAN(Generative Adversarial Network)
-  * OCR
+  * Super Resolution
 
 * Deep Learning
 ## Skills
-*Programming Languege: Python, C++, Matlab
-*Deeplearning Framework: Tensorflow, Pytorch
+* Programming Languege
+  * Python
+  * C++
+  * Matlab
+* Deeplearning Framework: Tensorflow, Pytorch
 
 ## 
 ## Education
