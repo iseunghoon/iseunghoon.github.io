@@ -5,9 +5,18 @@ subtitle: Who am I?
 permalink: /about/
 ---
 
-### Name : 이승훈
-I'm student You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Personal Details
+  * Name: LEE SEUNGHOON
+  * Nationality: Republic of Korea
+  * Address: Naesonro 14, Uiwang, GyeongGi-Do
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+## Skills
+## 
+## Education
+  MAR 2014 - AUG 2020 Bachelor of Electronics Engineering in INHA university
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+## Experience
+MAR 2020 - AUG 2020 Internship
+
+##
+
