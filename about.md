@@ -12,6 +12,8 @@ permalink: /about/
 
 * Address: Naesonro 14, Uiwang, GyeongGi-Do
 
+* E-mail: tim_lee@naver.com
+
 ## Interests
 * Computer Vision
   * Realtime Object detection
@@ -30,7 +32,8 @@ permalink: /about/
   * Pytorch
 
 ## Education
-* MAR 2014 - AUG 2020 | Bachelor of Electronics Engineering in INHA university
+`MAR 2014- AUG 2020`
+__B.S. in Department of Electronic Engineering, Inha University, Republic of Korea__
 
 ## Experience
 * MAR 2020 - AUG 2020 | MINDsNcompany
