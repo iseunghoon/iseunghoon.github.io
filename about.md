@@ -9,6 +9,7 @@ permalink: /about/
 * Name: LEE SEUNGHOON
 * Nationality: Republic of Korea
 * Address: Naesonro 14, Uiwang, GyeongGi-Do
+
 ## Interests
 * Computer Vision
   * Realtime Object detection
@@ -16,6 +17,7 @@ permalink: /about/
   * Super Resolution
 
 * Deep Learning
+
 ## Skills
 * Programming Languege
   * Python
@@ -23,7 +25,6 @@ permalink: /about/
   * Matlab
 * Deeplearning Framework: Tensorflow, Pytorch
 
-## 
 ## Education
   MAR 2014 - AUG 2020 Bachelor of Electronics Engineering in INHA university
 
