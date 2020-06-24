@@ -16,17 +16,18 @@ permalink: /about/
   * GAN(Generative Adversarial Network)
   * Super Resolution
 
-* Deep Learning
-
 ## Skills
 * Programming Languege
   * Python
   * C++
   * Matlab
-* Deeplearning Framework: Tensorflow, Pytorch
+
+* Deeplearning Framework
+  * Tensorflow
+  * Pytorch
 
 ## Education
-  MAR 2014 - AUG 2020 Bachelor of Electronics Engineering in INHA university
+  MAR 2014 - AUG > 2020 Bachelor of Electronics Engineering in INHA university
 
 ## Experience
 MAR 2020 - AUG 2020 
