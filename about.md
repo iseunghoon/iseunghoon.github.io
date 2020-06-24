@@ -6,13 +6,13 @@ permalink: /about/
 ---
 
 ## Personal Details
-***
 * Name: LEE SEUNGHOON
+
 * Nationality: Republic of Korea
+
 * Address: Naesonro 14, Uiwang, GyeongGi-Do
 
 ## Interests
-***
 * Computer Vision
   * Realtime Object detection
   * GAN(Generative Adversarial Network)
