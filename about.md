@@ -30,8 +30,8 @@ permalink: /about/
   * Pytorch
 
 ## Education
-* MAR 2014 - AUG > 2020 Bachelor of Electronics Engineering in INHA university
+* MAR 2014 - AUG 2020 | Bachelor of Electronics Engineering in INHA university
 
 ## Experience
-* MAR 2020 - AUG 2020 
+* MAR 2020 - AUG 2020 | MINDsNcompany
 
