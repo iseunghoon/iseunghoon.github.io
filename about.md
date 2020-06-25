@@ -24,9 +24,9 @@ permalink: /about/
 * Programming Languege
   * Python
   * C++
-  * Matlab___
-
-
+  * Matlab
+  
+  
 * Deeplearning Framework
   * Tensorflow
   * Pytorch
@@ -36,5 +36,5 @@ permalink: /about/
  >B.S. in Department of Electronic Engineering, Inha University, Republic of Korea
 
 ## Experience
-* MAR 2020 - AUG 2020 | MINDsNcompany
+* MAR 2020 - AUG 2020 | MINDs n Company
 
