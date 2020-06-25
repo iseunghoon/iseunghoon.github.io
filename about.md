@@ -29,7 +29,7 @@ permalink: /about/
   - Pytorch
 
 ## Education
-* MAR 2014 - AUG 2020  ___B.S. in Department of Electronic Engineering, Inha University, Republic of Korea___
+* MAR 2014 - AUG 2020  ___B.S. in Department of Electronic Engineering, INHA University___
 
 ## Experience
 * MAR 2020 - AUG 2020  ___MINDs n Company___
