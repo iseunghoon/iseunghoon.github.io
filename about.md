@@ -7,11 +7,8 @@ permalink: /about/
 
 ## Personal Details
 * Name: LEE SEUNGHOON
-
 * Nationality: Republic of Korea
-
 * Address: Naesonro 14, Uiwang, GyeongGi-Do
-
 * E-mail: tim_lee@naver.com
 
 ## Interests
