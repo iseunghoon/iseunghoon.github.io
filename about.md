@@ -16,20 +16,20 @@ permalink: /about/
 
 ## Interests
 * Computer Vision
-  * Realtime Object detection
-  * GAN(Generative Adversarial Network)
-  * Super Resolution
+  - Realtime Object detection
+  - GAN(Generative Adversarial Network)
+  - Super Resolution
 
 ## Skills
 * Programming Languege
-  * Python
-  * C++
-  * Matlab
+  - Python
+  - C++
+  - Matlab
   
   
 * Deeplearning Framework
-  * Tensorflow
-  * Pytorch
+  - Tensorflow
+  - Pytorch
 
 ## Education
 * MAR 2014 - AUG 2020  ___B.S. in Department of Electronic Engineering, Inha University, Republic of Korea___
