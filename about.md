@@ -25,7 +25,7 @@ permalink: /about/
   
   
 * Deeplearning Framework
-  - Tensorflow
+  - Tensorflow-keras
   - Pytorch
 
 ## Education
